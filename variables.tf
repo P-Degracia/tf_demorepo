@@ -1,6 +1,6 @@
 variable "pdeg" {
-default = "pdegr110526" 
+  default = "pdegr110526"
 }
-variable "pdegr3"{
-default = "t3.micro"
+variable "pdegr3" {
+  default = "t3.micro"
 }
